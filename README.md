@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/princerajcodewithme/Leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/princerajcodewithme/Leetcode/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/princerajcodewithme/Leetcode/tree/master/0130-surrounded-regions) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/princerajcodewithme/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/princerajcodewithme/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
