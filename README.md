@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/princerajcodewithme/Leetcode/tree/master/0130-surrounded-regions) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princerajcodewithme/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/princerajcodewithme/Leetcode/tree/master/0542-01-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princerajcodewithme/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princerajcodewithme/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princerajcodewithme/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princerajcodewithme/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princerajcodewithme/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/princerajcodewithme/Leetcode/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princerajcodewithme/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Memoization
 |  |
 | ------- |
